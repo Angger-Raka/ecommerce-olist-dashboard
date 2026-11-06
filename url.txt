@@ -1,0 +1,4 @@
+Tautan dashboard Streamlit Cloud:
+(Belum di-deploy. Isi baris di bawah ini dengan URL aplikasi setelah deploy — lihat PANDUAN_DEPLOY_STREAMLIT_CLOUD.md)
+
+https://<nama-app-anda>.streamlit.app
